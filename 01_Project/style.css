@@ -17,12 +17,12 @@ span{
     border: solid black 2px;
     display: inline-block;
   }
-  #grey {
-    background: grey;
+  #skyblue {
+    background: skyblue;
   }
   
-  #black {
-    background: black;
+  #orange {
+    background: orange;
   }
   #pink {
     background: pink;
